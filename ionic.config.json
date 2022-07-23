@@ -1,0 +1,7 @@
+{
+  "name": "AiraUI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
